@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DonateTheFood-Help people</string>
+    <string-array name="qunantity_array">
+        <item>1 packet</item>
+        <item>2 packets</item>
+        <item>3 packets</item>
+        <item>4 packets</item>
+        <item>5 packets</item>
+        <item>6 packets</item>
+        <item>7 packets</item>
+        <item>8 packets</item>
+        <item>9 packets</item>
+        <item>10 packets</item>
+        <item>10+ packets</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
