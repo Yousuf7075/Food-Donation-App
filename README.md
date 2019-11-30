@@ -1,5 +1,5 @@
 # Food-Donation-App
-This is a food donation app. User donate food throgh this app and volunteer will collect this food see information from app. And volunteer serve this food to helpless peoples.
+This is a food donation app. User donate food through this app and volunteer will collect this food see information from app. And volunteer serve this food to helpless peoples.
 
 <h2> Used Component </h2>
 <hr>
